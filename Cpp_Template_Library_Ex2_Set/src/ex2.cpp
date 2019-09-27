@@ -3,7 +3,7 @@
 // Author      : 
 // Version     :
 // Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : C++ Program to Implement Set in Stl
 //============================================================================
 
 #include <iostream>
